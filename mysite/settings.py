@@ -25,7 +25,7 @@ SECRET_KEY = 'zr&wcadow*%3!(82zyq2kvwvyi-v^t7$c6s&d^=2=&z%6h8$sx'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ["janeve.pythonanywhere.com"]
+ALLOWED_HOSTS = ['janeve.pythonanywhere.com', '127.0.0.1']
 
 
 # Application definition
